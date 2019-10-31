@@ -1,0 +1,27 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" },
+  "disc_cat":[
+					{
+					"aktions_typ_nr":3210,
+					"aktions_typ_bez":"Aktionen Kundenmanagement"
+					},
+					{
+					"aktions_typ_nr":3220,
+					"aktions_typ_bez":"Aktionen TGM"
+					},
+					{
+					"aktions_typ_nr":3230,
+					"aktions_typ_bez":"Aktionen Telefonverkauf"
+					},
+					{
+					"aktions_typ_nr":3240,
+					"aktions_typ_bez":"Aktionen CRM"
+					}
+				]
+}
